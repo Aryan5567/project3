@@ -1,0 +1,50 @@
+h1{
+    font-family: fantasy;
+    font-size: 2cm;
+    animation-name: example;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{color: white;}
+    to{color: yellow;}
+}
+
+h5{
+
+    font-size: 0.8cm;
+    border-radius: 2px;
+    border: 2px;
+}
+b{
+    font-size: 0.8cm;
+    color: purple;
+}
+h4{
+    font-size: 0.8cm;
+    text-align: center;
+}
+.shoe_image_and_result {
+    background: grey;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+li{
+    font-size: 0.8cm;
+}
+img{
+    border-radius: 25px;
+    width: 350px;
+    height: 300px;
+}
+.bg{
+    background-color: white;
+    border-color: white;
+}
+
+.mouse_image_and_result {
+    size: 1cm;
+    background: grey;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
